@@ -11,12 +11,10 @@ description: "this is meta description"
 
 # taxonomies
 categories: 
-  - "Go Language"
+  - "My Nintendo"
 tags:
-  - "Photos"
-  - "Game"
-  - "HTML"
-  - "Python"
+  - "Games"
+  - "Console"
   - "New"
 
 # post type
@@ -32,7 +30,7 @@ type: "post"
 
 <hr>
 
-##### Emphasis
+##### Hello from Pablo
 
 Emphasis, aka italics, with *asterisks* or _underscores_.
 
@@ -164,4 +162,4 @@ Markdown | Less | Pretty
 
 ##### Youtube video
 
-{{< youtube C0DPdy98e4c >}}
+{{< youtube LHL4O9-Xwiw >}}
